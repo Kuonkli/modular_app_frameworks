@@ -1,0 +1,9 @@
+{
+  "modules": [
+    "Core",
+    "Logging",
+    "Validation",
+    "Export",
+    "Report"
+  ]
+}
